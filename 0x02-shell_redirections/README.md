@@ -23,3 +23,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 9-duplicate_last_line duplicates last line in a file
 100-empty_casks finds empty files in directories and subdirectories
 lists all files with .gif extension
+This script prints Hello World
