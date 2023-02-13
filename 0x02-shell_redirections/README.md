@@ -33,3 +33,5 @@ Display number of lines
 Reverses input
 finds all empty files and directories
 lists all files with .gif extension
+lsts all files with .gif extension
+lists all files with .gif extension
