@@ -15,3 +15,4 @@ This script displays confused smiley
 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 17-hidethisword displays lines that do not contain bin
+18-letteronly displays lines starting with a letter
