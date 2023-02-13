@@ -11,3 +11,4 @@ This script displays confused smiley
 11-directories count directories and subdirectories in the current directory
 12-newest_files displays 10 newest files in the current directory
 13-unique prints words that appear once
+14-findthatword Display lines containing the pattern “root” from the file /etc/passwd
