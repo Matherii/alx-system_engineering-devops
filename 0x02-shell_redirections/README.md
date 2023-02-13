@@ -6,3 +6,4 @@ This script displays confused smiley
 5-firstlines prints first 10 lines in a file
 6-third_line displays third line of the file
 7-file creates file named \*\'Best School\'\*$\?\*\*\*\*\*:)
+8-cwd_state writes into file ls_cwd_content
