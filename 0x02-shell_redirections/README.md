@@ -32,3 +32,4 @@ script counts number of directories
 Display number of lines
 Reverses input
 finds all empty files and directories
+lists all files with .gif extension
