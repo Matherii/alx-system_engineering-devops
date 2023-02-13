@@ -9,3 +9,4 @@ This script displays confused smiley
 8-cwd_state writes into file ls_cwd_content
 10-no_more_js deletes all regular files with .js 
 11-directories count directories and subdirectories in the current directory
+12-newest_files displays 10 newest files in the current directory
