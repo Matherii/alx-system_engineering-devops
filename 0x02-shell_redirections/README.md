@@ -17,3 +17,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 17-hidethisword displays lines that do not contain bin
 18-letteronly displays lines starting with a letter
 19-AZ replaces all characters A and c from input to Z and e respectively.
+20-hiago removes C and c from Chicago
