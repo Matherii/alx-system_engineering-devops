@@ -29,3 +29,4 @@ Displays third line of iacta
 script that creates a file
 deletes files with .js extension
 script counts number of directories
+Display number of lines
