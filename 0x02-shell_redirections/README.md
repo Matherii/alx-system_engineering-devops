@@ -25,3 +25,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 lists all files with .gif extension
 This script prints Hello World
 This script displays a confused smiley
+Displays third line of iacta
