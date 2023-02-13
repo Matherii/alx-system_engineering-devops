@@ -5,3 +5,4 @@ This script displays confused smiley
 4-lastlines print last 10 lines in a file
 5-firstlines prints first 10 lines in a file
 6-third_line displays third line of the file
+7-file creates file named \*\'Best School\'\*$\?\*\*\*\*\*:)
