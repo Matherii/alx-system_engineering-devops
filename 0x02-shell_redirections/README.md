@@ -20,3 +20,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 20-hiago removes C and c from Chicago
 21-reverse reverses the input
 22-user_and_homes displays all users and their home
+9-duplicate_last_line duplicates last line in a file

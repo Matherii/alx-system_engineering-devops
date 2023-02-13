@@ -1,0 +1,3 @@
+#!/bin/bash
+cat iacta |  perl -pe '$_.=$_' >> iacta_duplicate | tail -n 2 iacta_duplicate
+
