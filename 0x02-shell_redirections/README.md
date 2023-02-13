@@ -24,3 +24,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 100-empty_casks finds empty files in directories and subdirectories
 lists all files with .gif extension
 This script prints Hello World
+This script displays a confused smiley
