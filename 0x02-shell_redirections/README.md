@@ -19,3 +19,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 19-AZ replaces all characters A and c from input to Z and e respectively.
 20-hiago removes C and c from Chicago
 21-reverse reverses the input
+22-user_and_homes displays all users and their home
