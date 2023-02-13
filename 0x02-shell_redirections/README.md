@@ -27,3 +27,4 @@ This script prints Hello World
 This script displays a confused smiley
 Displays third line of iacta
 script that creates a file
+deletes files with .js extension
