@@ -6,3 +6,4 @@ lists environment variables
 lists all variables
 creates local variable
 creates global variable
+Adds 128 to trueknowledge
