@@ -13,3 +13,4 @@ From base2 to base10
 prints all combination of letters except oo
 prints number with two decimal places
 converts base10 to base16
+encodes and decodes using rot13
