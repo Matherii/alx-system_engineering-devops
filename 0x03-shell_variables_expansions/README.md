@@ -11,3 +11,4 @@ division of global variables
 prints BREATH to the power of LOVE
 From base2 to base10
 prints all combination of letters except oo
+prints number with two decimal places
