@@ -14,3 +14,4 @@ prints all combination of letters except oo
 prints number with two decimal places
 converts base10 to base16
 encodes and decodes using rot13
+prints every line from input
